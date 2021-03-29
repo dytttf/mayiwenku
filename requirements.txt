@@ -12,7 +12,7 @@ parso==0.3.1
 pickleshare==0.7.4
 Pillow==5.3.0
 prompt-toolkit==1.0.15
-Pygments==2.2.0
+Pygments==2.7.4
 reportlab==3.5.12
 requests==2.21.0
 scipy==1.1.0
