@@ -9,6 +9,8 @@ import requests
 from reportlab.platypus import SimpleDocTemplate, Image, PageBreak
 from reportlab.lib.pagesizes import A4, landscape
 from PIL import Image as pilImage
+from PIL import ImageFile
+ImageFile.LOAD_TRUNCATED_IMAGES = True
 
 # 当前路径
 cur_path = os.path.dirname(os.path.abspath(__file__))
