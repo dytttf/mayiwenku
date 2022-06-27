@@ -13,7 +13,7 @@ pickleshare==0.7.4
 Pillow==5.3.0
 prompt-toolkit==1.0.15
 Pygments==2.2.0
-reportlab==3.5.12
+reportlab==3.5.55
 requests==2.21.0
 scipy==1.1.0
 simplegeneric==0.8.1
